@@ -12,6 +12,12 @@ Aplikasi Android sederhana yang dibangun menggunakan **Jetpack Compose** untuk m
 
 ---
 
+## 📄 PDF
+
+[Lihat Laporan Modul 4 (PDF)](./Modul4_Arevanda%20Lazuardi%20Arrayan_245150407111091.pdf)
+
+---
+
 ## 🌟 Fitur Utama
 
 - **Validasi Input Real-time:** Menampilkan peringatan warna merah jika pengguna mencoba memesan tiket tanpa mengisi nama.
